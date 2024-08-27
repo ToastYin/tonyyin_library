@@ -1,0 +1,20 @@
+name: tonyyin_library
+description: A Dart library providing utilities for string manipulation.
+version: 1.0.0
+homepage: https://github.com/ToastYin/tonyyin_library
+repository: https://github.com/ToastYin/tonyyin_library
+issue_tracker: https://github.com/ToastYin/tonyyin_library/issues
+
+environment:
+  sdk:  ^3.0.0
+  
+dependencies:
+  # 在这里列出您的库依赖项
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
+
+# 可选的自定义分析规则
+analyzer:
+  strong-mode: true
